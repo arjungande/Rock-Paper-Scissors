@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background: #f0f8ff;
+  margin: 0;
+  padding: 30px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#result {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+#score {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
